@@ -1,5 +1,6 @@
-Studentinfo.js
+# Studentinfo.js
 ↓
+
 ```jsx
 import React, { Component } from 'react'
 
@@ -36,9 +37,10 @@ export default class Studentinfo extends Component {
 }
 ```
 
-App.js
+# App.js
 ↓
-```
+
+```jsx
 import React, {Component} from "react";
 import Studentinfo from "./components/Studentinfo";
 
